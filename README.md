@@ -22,6 +22,5 @@ Kgisl Micro College @ Data Analyst student
 <img width="48" height="48" src="https://img.icons8.com/color/48/google-colab.png" alt="google-colab"/>
 
 
-![Revathi's GitHub stats](![LeetCode Stats](https://leetcard.jacoblin.cool/REVATHIGOVINDHARAJAN?theme=dark&font=Aref%20Ruqaa&ext=activity&site=cn))
 
 [![Revathi's github activity graph]([![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=REVATHIGOVINDHARAJAN&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)]
